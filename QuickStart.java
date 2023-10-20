@@ -11,6 +11,8 @@ class QuickStart{
         long y = 12341251545351315L;
         boolean z = true;
         char symbol = '@';
+
+        // The capitalletter of the variable "String" is always being written big
         String name = "Noah";
 
         System.out.println("My number is: " + x);
